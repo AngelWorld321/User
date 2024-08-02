@@ -1,0 +1,63 @@
+html,
+body {
+    height: 100%; /* Sets the height of the entire page to 100%. */
+    width: 100%; /* Sets the width of the entire page to 100%. */
+    background-color: #F7D2D7; /* Sets the background color to white. */
+}
+
+.center {
+    margin: 0; /* Sets the margin to 0. */
+    position: absolute; /* Sets the position to absolute. */
+    top: 50%; /* Sets the top position to 50%. */
+    left: 50%; /* Sets the left position to 50%. */
+    margin-right: -50%; /* Sets the right margin to -50%. */
+    transform: translate(-50%, -50%); /* Translates the element to center it. */
+}
+
+.loader {
+    display: flex; /* Sets display to flexbox. */
+    justify-content: center; /* Horizontally centers the content. */
+    align-items: center; /* Vertically centers the content. */
+    margin-top: 20px; /* Adds a 20px margin to the top. */
+}
+
+.continuous-4 {
+  width: 120px; /* Sets the width to 120px. */
+  height: 22px; /* Sets the height to 22px. */
+  border-radius: 40px; /* Sets the border radius to 40px, making it rounded. */
+  color: #039D55; /* Sets the color to #039D55. */
+  border: 2px solid; /* Sets a solid border of 2px. */
+  position: relative; /* Sets the position to relative. */
+  overflow: hidden; /* Hides overflow content. continuous-4 class defines a continuous loading animation with a moving element. */
+}
+
+.continuous-4::before {
+  content: ""; /* No content is shown. */
+  position: absolute; /* Sets the position to absolute. */
+  margin: 2px; /* Sets a margin of 2px. */
+  width: 14px; /* Sets the width to 14px. */
+  top: 0; /* Sets the top position to 0. */
+  bottom: 0; /* Sets the bottom position to 0. */
+  left: -20px; /* Sets the left position to -20px. */
+  border-radius: inherit; /* Inherits the border radius from the parent. */
+  background: currentColor; /* Sets the background to the current color. */
+  box-shadow: -10px 0 12px 3px currentColor; /* Adds a box shadow with the current color. */
+  clip-path: polygon(0 5%, 100% 0, 100% 100%, 0 95%, -30px 50%); /* Sets a clip path for the shape. */
+  animation: ct4 1s infinite linear; /* Adds an animation with 1s duration, repeating infinitely. */
+}
+
+@keyframes ct4 {
+  100% {left: calc(100% + 20px)} /* At the end of the animation, sets the left position to 100% + 20px. */
+}
+
+/**/
+body {
+  display: grid; /* Sets display to grid. */
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Sets the grid columns template. */
+  grid-auto-rows: 130px; /* Sets the automatic row height to 130px. */
+  place-items: center; /* Centers all items within the grid. */
+}
+
+* {
+  box-sizing: border-box; /* Sets the box-sizing to border-box for all elements. */
+}

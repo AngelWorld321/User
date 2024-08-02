@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>400966995992-pp5mupbetj8k3kbak7lcvipq1osspnq0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.400966995992-pp5mupbetj8k3kbak7lcvipq1osspnq0</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>400966995992-3fh49np9lgil3rmj7pigakk714r7aufh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBhy4__6iOFbsAqvd7dioIeooWfD5sCdiw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>400966995992</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.angelworld.ios</string>
+	<key>PROJECT_ID</key>
+	<string>angelworld-estore</string>
+	<key>STORAGE_BUCKET</key>
+	<string>angelworld-estore.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:400966995992:ios:8268f459ae16196262f36d</string>
+	<key>DATABASE_URL</key>
+	<string>https://angelworld-estore-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

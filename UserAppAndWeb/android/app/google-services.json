@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "400966995992",
+    "firebase_url": "https://angelworld-estore-default-rtdb.firebaseio.com",
+    "project_id": "angelworld-estore",
+    "storage_bucket": "angelworld-estore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400966995992:android:20ddf354a436a1cf62f36d",
+        "android_client_info": {
+          "package_name": "com.angelworld.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400966995992-3fh49np9lgil3rmj7pigakk714r7aufh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.angelworld.app",
+            "certificate_hash": "e854025d5a99ae93129eb7fe022ef34e4d053c27"
+          }
+        },
+        {
+          "client_id": "400966995992-f4fm8bjlgsceaud9l8h6ge5kqipps05o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.angelworld.app",
+            "certificate_hash": "996752a24b6daea46862d8460a79e4ca63186c4e"
+          }
+        },
+        {
+          "client_id": "400966995992-vtrdv862m17sm370kiknb0kakqj02mtt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.angelworld.app",
+            "certificate_hash": "212531a150eedc97f55953d05a03c1bd4872415a"
+          }
+        },
+        {
+          "client_id": "400966995992-srdvegvhhemelso2kennnsil1k9mppcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACeMEJ5CAJEIslVXjMCz0OBcHJfNfcikU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400966995992-kuj300jj5i17l9m3kam8qhblko56jm48.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "400966995992-a6hgfuom4hkd6gabll5ip2q6j5f8q8u0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ios.angelworld"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400966995992:android:f25d43f6f763281462f36d",
+        "android_client_info": {
+          "package_name": "com.angelworld.dboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400966995992-srdvegvhhemelso2kennnsil1k9mppcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACeMEJ5CAJEIslVXjMCz0OBcHJfNfcikU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400966995992-kuj300jj5i17l9m3kam8qhblko56jm48.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "400966995992-a6hgfuom4hkd6gabll5ip2q6j5f8q8u0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ios.angelworld"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400966995992:android:0a78a9f1aa3b67ac62f36d",
+        "android_client_info": {
+          "package_name": "com.angelworld.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400966995992-srdvegvhhemelso2kennnsil1k9mppcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACeMEJ5CAJEIslVXjMCz0OBcHJfNfcikU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400966995992-kuj300jj5i17l9m3kam8qhblko56jm48.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "400966995992-a6hgfuom4hkd6gabll5ip2q6j5f8q8u0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ios.angelworld"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "2"
+}
